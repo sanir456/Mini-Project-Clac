@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Mini-Project-Clac:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Mini-Project-Clac</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Mini-Project-Clac-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Mini-Project-Clac:war exploded" />
+    </root>
+  </artifact>
+</component>
